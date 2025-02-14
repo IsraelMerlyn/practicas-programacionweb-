@@ -2,13 +2,16 @@ p{
     font-family: 'Courier New', Courier,
      monospace;
     font-size: 25px;
-    color: aqua;
+    color: rgb(255, 0, 0);
 }
 
 .parrafotitulo {
     font-family: 'Courier New', Courier,
     monospace;
    font-size: 25px;
-   color: aqua;
+   color: rgb(255, 8, 0);
 
+}
+.img-p{
+ border-radius: 50%;   
 }
