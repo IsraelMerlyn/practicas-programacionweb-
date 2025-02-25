@@ -1,0 +1,21 @@
+.boton1{
+   
+    background-color: #FF0000;
+    color: white;
+}
+.boton2{
+   border-radius: 15px;
+    background-color: #d22e9b;
+    color: white;
+    padding: 10px 20px;
+}
+.boton3{
+    border-radius: 15px;
+     background-color: #ffcc0098;
+     color: white;
+     padding: 10px 20px;
+     text-align: end;
+     border: none;
+     font-size: 25px;
+     font-family: cursive;
+ }
